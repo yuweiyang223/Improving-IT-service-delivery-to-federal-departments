@@ -4,8 +4,10 @@
 In this project, we mainly explore the incident management data, trying to identify areas which will make improvement during the whole system. 
 
 ## Member
-Helen Ji
+Yuzhi Ji
+
 Yuwei Yang
+
 Jintong Yan
 
 ## Files in this repository 
