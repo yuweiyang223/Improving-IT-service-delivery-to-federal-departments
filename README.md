@@ -10,6 +10,8 @@ Yuwei Yang
 
 Jintong Yan
 
+Khadija Mahmoud
+
 ## Files in this repository 
 1.py contains the code and answer concerning average time that incidents spend in a particular status.
 
@@ -30,3 +32,5 @@ Jintong Yan
 9.py contains the code and answer concerning the difference in incidents ticket including and excluding Event Management tickets.
 
 10.py contains the code and answer concerning the MTRS of Assigned Groups Based On Priority.
+
+Cleaning, Problems, Visualization answers some questions in the different ways and visualize the results
