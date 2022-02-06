@@ -28,3 +28,5 @@ Jintong Yan
 8.py contains the code and answer concerning the correlation between the number of tickets associated with a particular assigned group, organization or service and the time it takes to restore service.
 
 9.py contains the code and answer concerning the difference in incidents ticket including and excluding Event Management tickets.
+
+10.py contains the code and answer concerning the MTRS of Assigned Groups Based On Priority.
