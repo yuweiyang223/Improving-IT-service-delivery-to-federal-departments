@@ -1,11 +1,10 @@
-
 # Average time that incidents spend in a particular status.
 
 
 import pandas as pd
 
 INCIDENT_HISTORY = pd.read_csv(r'C:\Users\Yuwei\Desktop\case\INCIDENT_HISTORY.csv', low_memory = False)
-# result = INCIDENT_HISTORY.groupby(by='STATUS').mean().reset_index()
+result = INCIDENT_HISTORY.groupby(by='STATUS').mean().reset_index()
 #print(result.sort_values(by='TIME_IN_STATUS_HRS',ascending= False))
 
 '''
